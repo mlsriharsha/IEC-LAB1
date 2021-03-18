@@ -1,0 +1,13 @@
+****** HSPICE -- O-2018.09 linux64 (Aug 26 2018) ******
+ Input File: cinv.sp
+ lic:
+ lic: FLEXlm: SDK_11.6.9.6
+ lic: USER:   een202501            HOSTNAME: debian
+ lic: HOSTID: "84ef18b45ba4"       PID:      29059
+ lic: Using FLEXlm license file:
+ lic: 27020@synopsys1.vlsi.ee.iitd.ac.in
+ lic: Checkout 1 hspice
+ lic: License/Maintenance for hspice will expire on 03-apr-2021/2020.12
+ lic: 1(in_use)/13(total) FLOATING license(s) on SERVER 27020@synopsys1.vlsi.ee.iitd.ac.in
+ lic:
+ lic: Release hspice token(s)
